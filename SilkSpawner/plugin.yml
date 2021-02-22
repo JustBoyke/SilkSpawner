@@ -1,0 +1,10 @@
+name: SilkSpawner
+main: me.boykev.silkspawner.Main
+author: boykev
+website: http://www.fire-mc.nl
+version: "1.0"
+api: "1.16"
+api-version: 1.16
+commands:
+  silk:
+    description: Main silkspawner commando
